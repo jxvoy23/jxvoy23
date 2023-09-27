@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @jxvoy23
-- 👀 I’m interested in Physics and Sports
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on anything to broaden my horizon
-- 📫 Contact me using my email: joel0323rod@gmail.com
+  - Hello, my name is Joel Rodriguez.
+  - I am currently enrolled at Farmingdale State pursuing a BA in Computer Science.
+  - I would love to learn more about the world of CS, so please message me if you have any comments, pointers, recomendations, etc.
+  - I am fluent in Java and have a decent understanding of HTML, CSS, and JavaScript.
+<!---jxvoy23/jxvoy23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
-<!---
-jxvoy23/jxvoy23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
